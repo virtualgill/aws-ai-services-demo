@@ -1,5 +1,7 @@
 # AWS AI Services Demos
 
+The code samples here are the ones walked through in AWS Power Hour: Machine Learning | S1 E1 | Intro to ML: https://m.twitch.tv/videos/688752443
+
 ## To set up a SageMaker Notebook
 Open the Amazon SageMaker console at https://console.aws.amazon.com/sagemaker/.
 
