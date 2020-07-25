@@ -44,3 +44,4 @@ Select the Bot and click navigate to the Editor page
 Select "Build"
 
 Once built choose "Publish" and choose an alias of "*test*" (you can select a different name, but be sure to update any notebooks that use this bot too)
+
