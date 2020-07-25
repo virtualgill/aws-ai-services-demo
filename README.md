@@ -25,13 +25,19 @@ Once your instance is running choose "Open Jupyter". From here you have two opti
 
 or 2. Use the New button to open a terminal window and run the following commands to navigate to the correct location and clone this repo: 
 ```cd SageMaker```
-```git```
+
+```git clone```
 
 
 ## Adding in the Lex Bot
 Navigate to the Lex Console at https://console.aws.amazon.com/lex
+
 Choose Actions -> Import
-Upload coffee_and_cover_bot_Export.zip included in this repo
+
+Upload [coffee_and_cover_bot_Export.zip](coffee_and_cover_bot_Export.zip) included in this repo
+
 Select the Bot and click navigate to the Editor page
+
 Select "Build"
+
 Once built choose "Publish" and choose an alias of "test" (you can select a different name, but be sure to update any notebooks that use this bot too)
