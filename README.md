@@ -24,9 +24,10 @@ Once your instance is running choose "Open Jupyter". From here you have two opti
 1. Use the Upload button to manually copy up the Jupyter Notebooks (.ipynb) files
 
 or 2. Use the New button to open a terminal window and run the following commands to navigate to the correct location and clone this repo: 
+
 ```cd SageMaker```
 
-```git clone```
+```git clone https://github.com/virtualgill/aws-ai-services-demo.git```
 
 
 ## Adding in the Lex Bot
@@ -40,4 +41,4 @@ Select the Bot and click navigate to the Editor page
 
 Select "Build"
 
-Once built choose "Publish" and choose an alias of "test" (you can select a different name, but be sure to update any notebooks that use this bot too)
+Once built choose "Publish" and choose an alias of "*test*" (you can select a different name, but be sure to update any notebooks that use this bot too)
